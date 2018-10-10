@@ -1,2 +1,2 @@
-print("Keep Calm and Play the Guitar!")
+print("Keep Calm!")
 print("I loveeeeee BaconnnnNNNNNN!!!!")
